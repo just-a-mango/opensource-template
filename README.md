@@ -1,23 +1,23 @@
 <h1 align="center">Welcome to Opensource-Template</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-Your version.-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/just-a-mango/decentra/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/just-a-mango/opensource-template/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-<p align="center"><b><i>A decentralized network system</b></i></p>
+<p align="center"><b><i>A short description of your project</b></i></p>
 
 ## Description
 A more detailed description of your project.
 
 ## Author
 
-👤 **Just_a_mango**
+👤 **Your github username**
 
-* Website: https://just-a-mango.github.io/
-* Twitter: [@pokoracio](https://twitter.com/pokoracio)
-* Github: [@just-a-mango](https://github.com/just-a-mango)
+* Website: your website
+* Twitter: [@your-twitter](https://twitter.com/your-twitter)
+* Github: [@your-github](https://github.com/your-github)
 
 ## 📝 License
 
